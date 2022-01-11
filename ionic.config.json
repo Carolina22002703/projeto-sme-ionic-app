@@ -1,0 +1,7 @@
+{
+  "name": "projeto-sme-ionic-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
